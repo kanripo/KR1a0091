@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳義大全
-#+DATE: 2015-09-23 09:35:03
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:57:20.132693
+#+PROPERTY: ID KR1a0091
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 周易朱子圖説
 <pb:KR1a0091_WYG_002-1a>¶
 ¶
 <pb:KR1a0091_WYG_002-2a>¶
@@ -1025,4 +1027,3 @@
 　(啓蒙三十三圖變例乃為備也○鄱陽董氏曰鶴山/魏氏謂朱子易大抵得於邵子為多不讀邵易則&KR0252;)¶
 　(不知啓蒙本義之所以作今觀此諸圖則魏氏之言/為尤信朱子甞稱邵傳羲畫愚亦謂朱子又所以傳)¶
 　(邵易/云)¶
-

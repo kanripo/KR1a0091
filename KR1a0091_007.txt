@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳義大全
-#+DATE: 2015-09-23 09:35:03
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:57:20.219786
+#+PROPERTY: ID KR1a0091
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1a0091_WYG_007-1a>¶
 欽定四庫全書¶
 　周易傳義大全卷一　　明　胡廣等　撰¶
@@ -1244,4 +1246,3 @@
 　¶
 　¶
 　周易傳義大全卷一¶
-

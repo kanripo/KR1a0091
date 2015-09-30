@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳義大全
-#+DATE: 2015-09-23 09:35:04
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 21:57:20.646181
+#+PROPERTY: ID KR1a0091
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1a0091_WYG_024-1a>¶
 欽定四庫全書¶
 　周易傳義大全卷十八　　明　胡廣等　撰¶
@@ -884,4 +886,3 @@
 　(有序四逺之則亦艮其身而无咎也二近下艮故艮/其腓不拯其隨初逺之則但艮其趾未失正而已合)¶
 　(二體觀之而重/艮之義可識矣)¶
 　周易傳義大全卷十八¶
-
